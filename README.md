@@ -10,8 +10,10 @@
 ### Connect with me:
 
 [<img align="left" alt="Cazpar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
 [Mail at: Casti19@student.sdu.dk](mailto:Casti19@student.sdu.dk?subject=[GitHub]%20Source%20Han%20Sans)
-[<img align="left" alt="Cazpar | LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/discord.svg" /> Cazpar#7555][discord]
+
+[<img align="left" alt="Cazpar | LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/discord.svg" />][discord]
 
 <br />
 
