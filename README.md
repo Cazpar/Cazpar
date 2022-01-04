@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Cazpar | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/29/linkedin-2013.svg" />][linkedin]
+[<img align="left" alt="Cazpar | LinkedIn" width="26px" src="https://cdn.cdnlogo.com/logos/l/29/linkedin-2013.svg" />][linkedin]
 
-[<img align="left" alt="Cazpar | Discord" width="22px" src="https://cdn.cdnlogo.com/logos/d/47/discord.svg" />][discord]
+[<img align="left" alt="Cazpar | Discord" width="26px" src="https://cdn.cdnlogo.com/logos/d/47/discord.svg" />][discord]
 
 [Mail at: Casti19@student.sdu.dk](mailto:Casti19@student.sdu.dk?subject=[GitHub]%20Source%20Han%20Sans)
 
