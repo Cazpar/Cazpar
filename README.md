@@ -9,9 +9,9 @@
 
 ### Connect with me:
 
-[<img align="left" alt="Cazpar | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Cazpar | LinkedIn" width="22px" src="https://cdn.cdnlogo.com/logos/l/29/linkedin-2013.svg" />][linkedin]
 
-[<img align="left" alt="Cazpar | LinkedIn" width="22px" src="https://cdnjs.cloudflare.com/ajax/libs/simple-icons/3.2.0/discord.svg" />][discord]
+[<img align="left" alt="Cazpar | Discord" width="22px" src="https://cdn.cdnlogo.com/logos/d/47/discord.svg" />][discord]
 
 [Mail at: Casti19@student.sdu.dk](mailto:Casti19@student.sdu.dk?subject=[GitHub]%20Source%20Han%20Sans)
 
@@ -22,10 +22,10 @@
 <img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="JavaScript" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-<img align="left" alt="Java" width="26px" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/java.svg" />
-<img align="left" alt="PHP" width="26px" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/php.svg" />
+<img align="left" alt="Java" width="26px" src="https://cdn.cdnlogo.com/logos/j/86/java.svg" />
+<img align="left" alt="PHP" width="26px" src="https://cdn.cdnlogo.com/logos/p/79/php.svg" />
 <img align="left" alt="C++" width="26px" src="https://cdn.cdnlogo.com/logos/c/76/c.svg" />
-<img align="left" alt="Python" width="26px" src="https://cdnjs.cloudflare.com/ajax/libs/line-awesome/1.3.0/svg/python.svg" />
+<img align="left" alt="Python" width="26px" src="https://cdn.cdnlogo.com/logos/p/3/python.svg" />
 <img align="left" alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
 <img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
 <img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />
