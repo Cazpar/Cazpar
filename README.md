@@ -1,4 +1,4 @@
-### Hi there, I'm Casper - aka [Cazpar][website] 👋 
+### Hi there, I'm Casper Stillinge - aka Cazpar <!--[Cazpar][website]--> 👋 
 
 ## I'm a Husband, Developer, and student!!
 
